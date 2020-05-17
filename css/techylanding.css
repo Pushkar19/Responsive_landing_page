@@ -1,0 +1,96 @@
+html{
+    height: 100%;
+}
+
+.navbar-light .navbar-brand{
+    color: red;
+    font-size: 2em;
+}
+body{
+    background-image: url(../images/back.jpg);
+    background-size: cover;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.color{
+    color: white;
+}
+.white{
+    color: white;
+}
+.center{
+    text-align: center;
+    padding-top: 200px;
+    
+}
+h1,p{
+    font-size: 2em;
+}
+
+@media (max-width:768px){
+    h1{
+        background-color: #449d44;
+        opacity: 0.8;
+    }
+    h2{
+        background-color: #ffed3d;
+        opacity: 0.8;
+    }
+}
+
+.collapse:not(.show){
+    font-size: 2em;
+}
+
+.dropdown-toggle{
+   
+   width: 100px;
+    
+    
+}
+.dropdown-item1{
+    padding: 2px 2px 0;
+    color: #ffffff;
+    background-color: #3b5998;
+}
+.dropdown-item1:hover{
+    padding: 2px 2px 0;
+    color: #ffffff;
+    width: 100px;
+    background-color: #3b5998;
+}
+.dropdown-item2{
+    padding: 2px 2px 0;
+    color: #ffffff;
+    background-color: #1da1f2;
+    
+}
+.btn-secondary{
+    background-color: #5b8d61;
+}
+.dropdwon-menu{
+    max-width: 200px;
+    overflow: hidden;
+}
+.dropdown-item2:hover{
+    padding: 2px 2px 0;
+    color: #ffffff;
+    background-color: #1da1f2;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
